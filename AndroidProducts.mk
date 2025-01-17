@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_ellis.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_ellis-user \
-    omni_ellis-userdebug \
-    omni_ellis-eng
+    twrp_ellis-user \
+    twrp_ellis-userdebug \
+    twrp_ellis-eng
