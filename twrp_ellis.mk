@@ -15,7 +15,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/motorola/ellis/device.mk)
 
 PRODUCT_DEVICE := ellis
-PRODUCT_NAME := omni_ellis
+PRODUCT_NAME := twrp_ellis
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := moto g pure
 PRODUCT_MANUFACTURER := motorola
